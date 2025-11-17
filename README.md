@@ -1,8 +1,12 @@
 # Triple Peaks Coffee Shop
 
+SE_PROJECT_COFFEESHOP-ft
+
 This is the second project of the fulltime Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
 ## Project features
+
+Coffeeshop webpage 
 
 - Semantic HTML5
 - Flexbox
@@ -14,3 +18,5 @@ This is the second project of the fulltime Software Engineering program at Tripl
 ## Plan on improving the project
 
 Add your ideas here :)
+
+Include Facebook and Instagram links
